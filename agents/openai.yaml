@@ -1,0 +1,5 @@
+interface:
+  display_name: "College Physics Lab Report"
+  short_description: "Submission-ready physics lab reports from templates."
+  brand_color: "#4B5563"
+  default_prompt: "Use $college-physics-lab-report to create a submission-ready college physics lab report from official templates, photographed data pages, and reference reports."
